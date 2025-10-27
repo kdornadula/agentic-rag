@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code
+.vscode/
+# macOS
+.DS_Store
+
+# dotenv
+.env
+
+# Chromadb persistent data (if used)
+chroma_db/
