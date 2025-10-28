@@ -20,3 +20,6 @@ pip-delete-this-directory.txt
 
 # Chromadb persistent data (if used)
 chroma_db/
+data/
+*.csv
+*.ipynb
