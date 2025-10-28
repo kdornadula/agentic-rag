@@ -23,3 +23,6 @@ chroma_db/
 data/
 *.csv
 *.ipynb
+
+data/medical_q_n_a_prepared.csv
+data/*.csv
